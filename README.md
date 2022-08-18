@@ -22,3 +22,9 @@ pytorch
 python img_primary_filter.py
 ```
 
+运行高级数据筛选：
+
+```
+python img_advanced_filter.py
+```
+
